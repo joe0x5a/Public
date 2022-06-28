@@ -1,7 +1,5 @@
 # Phishing Playbook
 
-[[_TOC_]]
-
 ## Scope
 This Playbook covers
 
