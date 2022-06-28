@@ -11,11 +11,11 @@ This Playbook covers the Incident Response lifecycle for Phishing Incidents
 - Create and maintain a list of 
     - all domains owned by Company.
         - This can prevent you from taking actions against our own domains
-    - all people of can register domains
+    - all people who can register domains
 - Create email template 
     - to notify all employees of ongoing phishing campaing against the organization 
-    - to contact hosting companies for domain take down
-    - to inform 3rd party to take actions against phishing on there infra (Microsoft, Fedex, Apple, etc.)
+    - to contact hosting companies/SOC for domain take down
+    - to inform 3rd party to take actions against phishing on their infrastructure. 
 - Ensure that:
     - Mail anti-malware/anti-spam/anti-phish solutions are in place.
     - Users know how to report phish
@@ -32,19 +32,20 @@ This Playbook covers the Incident Response lifecycle for Phishing Incidents
         - [Customer's Cards](Customers)
         - Internal Contact and Escalation Paths
 - Review threat intelligence for 
-    - threats to the organisation, 
-    - brands and the sector, 
+    - threats to the organisation 
+    - brands and the sector 
     - common patterns 
     - newly developing risks and vulnerabilities
-- Ensure  appropriate  access  to  any  necessary  documentation  and  information, including out-of-hours access, for the following
-    - IR Playbgns to highlight information security risks faced by employees, including: 
-    - Phishing attacks and malicious emails;
-    - Ransomware;
+- Ensure  appropriate  access  to  any  necessary  documentation  and  information. Including out-of-hours / offline access, for the following
+    - IR Playbooks to highlight information security risks faced by employees, including: 
+    - Phishing attacks and malicious emails
+    - Ransomware
     - Reporting a suspected cyber incident.
 
 ### Tool Access and Provisioning
 
-#### Tool1
+#### Security Microsoft.com 
+https://security.microsoft.com/
 Please referer to [Tool1 Documentation](../Products/TOOL.md)
 
 #### Tool2
