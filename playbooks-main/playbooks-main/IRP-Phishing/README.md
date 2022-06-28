@@ -1,7 +1,7 @@
 # Phishing Playbook
 
 ## Scope
-This Playbook covers
+This Playbook covers the Incident Response lifecycle for Phishing Incidents
 
 ## 1. Preparation
 
