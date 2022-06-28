@@ -1,5 +1,3 @@
-[[_TOC_]]
-
 # Free Tools
 In this section you will find link to free tools sometimes with a short description of what the tool does and how to use it.
 
